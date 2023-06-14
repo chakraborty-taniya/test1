@@ -1,0 +1,78 @@
+.logo
+{
+    width:60px;
+    height: 60px;
+}
+.heading
+{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800px;
+    color: blue;
+}
+.hero-para-text
+{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.my-btn
+{
+    color: red !important;
+    background-color: white !important;
+    border-color: red !important;
+
+}
+
+.my-btn:hover
+{
+    background-color: red !important;
+    color: white !important;
+}
+.redcol
+{
+    color: red;
+}
+
+.main-text
+{
+    color:rgb(30, 30, 173);
+}
+
+.card-img-top
+{
+    height: 400px;
+    width: 400px;
+    
+
+} 
+
+.product
+{
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(30, 30, 173);
+
+}
+.card-image
+{
+    height: 200px;
+    width: 100%;
+    padding: 10px;
+    
+
+} 
+
+   
+    
+
+
+
+
+
+
+
+
